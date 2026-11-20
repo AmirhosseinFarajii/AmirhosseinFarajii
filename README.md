@@ -1,4 +1,5 @@
 <div align="center">
+<img src="./Banner2.png" width="100%" alt="Amirhossein Faraji">
 
 # Hi, I'm Amirhossein 👋
 
