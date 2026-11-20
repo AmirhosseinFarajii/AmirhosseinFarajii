@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AmirhosseinFarajii/AmirhosseinFarajii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Amirhossein 👋
 
-Here are some ideas to get you started:
+### Front-End Developer | Web Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Electrical Engineering Student
+- 💻 Interested in Front-End Development
+- 🎨 Building modern and responsive websites
+- 🚀 Always learning and improving my skills
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode" />
+</p>
+
+## 📂 My Projects
+
+- 🌿 Chay Golestan
+- 🛍️ Techolife
+- 💻 Personal Website
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirhosseinFaraji&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🧡
+
+</div>
